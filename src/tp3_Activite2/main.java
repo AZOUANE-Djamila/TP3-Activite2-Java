@@ -23,7 +23,7 @@ public class main {
 
 	    float mht = 0;
 	    try{
-	    	//Seuls les nombre décimal qui seront acceptés
+	    	//Seuls les nombres décimals qui seront acceptés
 	    	while(!sc.hasNextFloat()) 
 	    		{
 	    		System.out.println("Veuillez introduire un nombre décimal exemple : 12,22");
